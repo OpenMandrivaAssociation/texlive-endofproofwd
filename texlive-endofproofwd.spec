@@ -1,6 +1,6 @@
 Name:		texlive-endofproofwd
 Version:	55643
-Release:	1
+Release:	2
 Summary:	An "end of proof" sign
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/endofproofwd
