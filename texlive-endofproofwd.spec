@@ -3,7 +3,7 @@ Version:	55643
 Release:	2
 Summary:	An "end of proof" sign
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/endofproofwd
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/endofproofwd
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/endofproofwd.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/endofproofwd.doc.r%{version}.tar.xz
